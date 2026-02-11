@@ -1,6 +1,6 @@
 # 💖 Will You Be My Valentine?
 
-An interactive, romantic web experience to ask someone to be your Galentine! This project is a beautifully designed single-page application with smooth animations, heartfelt memories, and a fun interactive "No" button that evades clicks.
+An interactive, romantic web experience to ask someone to be your Valentine! This project is a beautifully designed single-page application with smooth animations, heartfelt memories, and a fun interactive "No" button that evades clicks.
 
 ## ✨ Features
 
